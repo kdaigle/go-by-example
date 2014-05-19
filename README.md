@@ -1,7 +1,7 @@
 # Progress
 
 ## Currently on
-https://gobyexample.com/select
+https://gobyexample.com/mutexes
 
 ## Original Work
 

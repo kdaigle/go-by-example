@@ -1,7 +1,7 @@
 # Progress
 
 ## Currently on
-https://gobyexample.com/mutexes
+https://gobyexample.com/sorting-by-functions
 
 ## Original Work
 
